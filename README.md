@@ -1,3 +1,3 @@
 --- 
-# journaling
+# Journaling
 My Sweet Journaling 💖
